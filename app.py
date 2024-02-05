@@ -8,14 +8,6 @@ import seaborn as sns
 import pandas as pd
 import numpy as np
 
-#C:\Users\RohanKant\Downloads\archive\customer_support_tickets.csv
-#csv_file_path = st.text_input("Enter the path to your CSV file: ")
-#if csv_file_path:
-# Read the CSV file into a DataFrame
-    #df = pd.read_csv(csv_file_path)
-#else:
-    #st.write("Waiting for a question...")
-
 @st.cache_data
 def load_data(file):
     data=pd.read_csv(file)
@@ -140,7 +132,7 @@ import pandas as pd
 
 # Get OpenAI API key :- os.environ['OPENAI_API_KEY'] = getpass('Enter your OpenAI API key')
 
-api_key='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'
+api_key='ENTER YOUR API KEY HERE'
 os.environ['OPENAI_API_KEY'] = api_key
 
 agent = create_pandas_dataframe_agent(

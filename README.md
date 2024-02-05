@@ -1,4 +1,4 @@
-# Ticket_Analysis_Dashboard
+# Ticket Analysis Dashboard
 ![image](https://github.com/rohankant/Ticket_Analysis_Dashboard/assets/85503948/38b88973-827b-4380-81de-3b05b9702c8c)
 ![image](https://github.com/rohankant/Ticket_Analysis_Dashboard/assets/85503948/3a60cbaf-941d-4f97-8717-9a5ee40868c6)
 ![image](https://github.com/rohankant/Ticket_Analysis_Dashboard/assets/85503948/9ae75c8e-4219-4b83-af0f-6ffc7e980382)
